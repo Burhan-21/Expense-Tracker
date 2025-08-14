@@ -47,4 +47,5 @@ Contributions are welcome! If you would like to contribute to the Expense Tracke
 5. Open a pull request.
 
 ## License
-This code is a learning project. Do anything you want with it.
+
+This is a learning-focused project. Feel free to adapt, enhance, or repurpose it in any way that suits your needs.
