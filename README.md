@@ -47,5 +47,4 @@ Contributions are welcome! If you would like to contribute to the Expense Tracke
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+This code is a learning project. Do anything you want with it.
